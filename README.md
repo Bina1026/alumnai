@@ -38,7 +38,7 @@ This repository is designed for students and professionals who want to save time
 
 Run the main script with the following command:
 ```bash
-python main.py --pdf_path 'test.pdf' --text_path 'test.txt' (--show) (--query)
+python main.py --pdf_path 'test/test.pdf' --audio_path 'test/chunk_010.mp3' --device 'cpu' or 'cuda' (--show) (--query)
 ```
 
 ### Arguments:
